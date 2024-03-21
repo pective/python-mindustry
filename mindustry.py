@@ -15,5 +15,4 @@ while running:
 
     surface.fill('black')
     pygame.display.flip()
-    delta = clock.tick(fps)
 pygame.quit
